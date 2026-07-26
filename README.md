@@ -38,10 +38,10 @@ Product & Profitability Analysis
 
 A dedicated product analysis page was developed to evaluate:
 
-Revenue by Product Category
-Profit by Category
-Brand Contribution
-Product Contribution by Customer Segment
+Revenue by Product Category, 
+Profit by Category,  
+Brand Contribution, 
+Product Contribution by Customer Segment, 
 Regional Product Performance
 
 This analysis helps identify high-performing products, margin erosion, and profitability opportunities.
