@@ -98,17 +98,25 @@ Revenue trends indicate seasonal fluctuations with recovery during
 The dashboard supports strategic decision-making by helping stakeholders:
 
 ✔ Monitor executive KPIs in real time
+
 ✔ Identify high-performing products and regions
+
 ✔ Detect profitability challenges
+
 ✔ Optimize product and pricing strategies
+
 ✔ Track revenue trends for future planning
 
 Recommended focus areas include:
 
 ✔ Pricing optimization
+
 ✔ Margin improvement initiatives
+
 ✔ Product portfolio optimization
+
 ✔ Regional sales strategy
+
 ✔ Customer segment-focused marketing
 
 🛠 Tools & Technologies Used
