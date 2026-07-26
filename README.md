@@ -17,7 +17,12 @@ The dashboard enables interactive analysis through dynamic slicers, KPI tracking
 📊 Dashboard Features
 Executive Overview
 The dashboard provides executive-level KPIs for business performance monitoring:
-a.Total Revenue    b.Total Profit    c.Profit Margin %    d.Revenue YoY %    e.Total Customers    f.Average Revenue per Customer
+a.Total Revenue    
+b.Total Profit   
+c.Profit Margin %    
+d.Revenue YoY %   
+e.Total Customers    
+f.Average Revenue per Customer
 
 These KPIs provide a consolidated view of overall business performance.
 Product & Profitability Analysis
