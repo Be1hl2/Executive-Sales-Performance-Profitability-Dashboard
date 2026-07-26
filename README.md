@@ -92,11 +92,15 @@ This helps monitor business growth and identify performance fluctuations over ti
 
 Some of the major findings from the dashboard include:
 
-Laptop category generates the highest revenue but also records the highest loss, indicating margin erosion.
-Consumer segment contributes the highest share of revenue.
-Hyderabad is the top-performing city by revenue contribution.
-South region leads overall revenue performance.
-Revenue trends indicate seasonal fluctuations with recovery during
+✔Laptop category generates the highest revenue but also records the highest loss, indicating margin erosion.
+
+✔Consumer segment contributes the highest share of revenue.
+
+✔Hyderabad is the top-performing city by revenue contribution.
+
+✔South region leads overall revenue performance.
+
+✔Revenue trends indicate seasonal fluctuations with recovery during
 
 
 🎯 Business Impact & Recommendations
