@@ -17,6 +17,7 @@ The dashboard enables interactive analysis through dynamic slicers, KPI tracking
 📊 Dashboard Features
 Executive Overview
 The dashboard provides executive-level KPIs for business performance monitoring:
+
 a.Total Revenue    
 b.Total Profit   
 c.Profit Margin %    
@@ -39,7 +40,10 @@ This analysis helps identify high-performing products, margin erosion, and profi
 Consumer & Segment Analysis
 
 The dashboard analyzes customer purchasing behavior across different business dimensions, including:
-Customer Segment Contribution              City-wise Revenue Performance        Product Preference by City
+
+Customer Segment Contribution              
+City-wise Revenue Performance       
+Product Preference by City
 Revenue Contribution by Customer Segment
 
 This enables businesses to identify their most valuable customers and regional growth opportunities.
@@ -47,7 +51,9 @@ This enables businesses to identify their most valuable customers and regional g
 Trend Analysis
 A dedicated trend analysis page was created to evaluate:
 
-Monthly Revenue Trends                    Quarterly Segment Performance          City-wise Revenue Comparison
+Monthly Revenue Trends    
+Quarterly Segment Performance  
+City-wise Revenue Comparison
 Seasonal Sales Patterns
 
 This helps monitor business growth and identify performance fluctuations over time.
