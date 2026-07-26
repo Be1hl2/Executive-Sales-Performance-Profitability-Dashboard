@@ -71,7 +71,7 @@ Laptop category generates the highest revenue but also records the highest loss,
 Consumer segment contributes the highest share of revenue.
 Hyderabad is the top-performing city by revenue contribution.
 South region leads overall revenue performance.
-Revenue trends indicate seasonal fluctuations with recovery during Q4.
+Revenue trends indicate seasonal fluctuations with recovery during 
 🎯 Business Impact & Recommendations
 
 The dashboard supports strategic decision-making by helping stakeholders:
@@ -90,6 +90,7 @@ Margin improvement initiatives
 Product portfolio optimization
 Regional sales strategy
 Customer segment-focused marketing
+
 🛠 Tools & Technologies Used
 Power BI
 DAX
@@ -98,4 +99,3 @@ SQL
 Data Modeling
 Interactive Slicers & Navigation
 Business KPI Reporting
-Business KPI Reporting<img width="900" height="523" alt="image" src="https://github.com/user-attachments/assets/8f57ad8e-d50b-470c-8506-00638ff09677" />
