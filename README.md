@@ -126,10 +126,16 @@ Recommended focus areas include:
 ✔ Customer segment-focused marketing
 
 🛠 Tools & Technologies Used
-Power BI
-DAX
-Power Query
-SQL
-Data Modeling
-Interactive Slicers & Navigation
-Business KPI Reporting
+✔ Power BI
+
+✔ DAX
+
+✔ Power Query
+
+✔ SQL
+
+✔ Data Modeling
+
+✔ Interactive Slicers & Navigation
+
+✔ Business KPI Reporting
