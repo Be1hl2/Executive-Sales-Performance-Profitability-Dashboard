@@ -40,9 +40,9 @@ The dashboard provides executive-level KPIs for business performance monitoring:
 
 A dedicated product analysis page was developed to evaluate:
 
-1. Revenue by Product Category                     2. Profit by Category
+1. Revenue by Product Category                                          2. Profit by Category
 
-3. Brand Contribution                              4. Product Contribution by Customer Segment 
+3. Brand Contribution                                                   4. Product Contribution by Customer Segment 
 
 5. Regional Product Performance
 
