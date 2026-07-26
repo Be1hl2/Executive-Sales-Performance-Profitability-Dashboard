@@ -6,12 +6,18 @@ Developed a multi-page Power BI Sales Transaction Dashboard to provide executive
 The objective of the project was to identify:
 
 1. Revenue and profitability trends
+   
 2. Product and category performance
-3. Customer segment contribution,
-4. Brand and regional performance,
-5. City-wise sales distribution,
-6. Quarterly and monthly revenue trends,
-7. Business areas impacting overall profitability
+ 
+3. Customer segment contribution
+
+4. Brand and regional performance
+
+5. City-wise sales distribution
+   
+6. Quarterly and monthly revenue trends
+   
+7.  Business areas impacting overall profitability
 
 The dashboard enables interactive analysis through dynamic slicers, KPI tracking, and drill-down capabilities across multiple business dimensions.
 
