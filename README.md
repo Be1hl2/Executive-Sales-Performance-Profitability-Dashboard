@@ -20,21 +20,22 @@ Executive Overview
 
 The dashboard provides executive-level KPIs for business performance monitoring:
 
-Total Revenue
+1. Total Revenue
 
-Total Profit
+2. Total Profit
 
-Profit Margin %
+3. Profit Margin %
 
-Revenue YoY %
+4. Revenue YoY %
 
-Total Customers
+5. Total Customers
 
-Average Revenue per Customer
+6. verage Revenue per Customer
 
-These KPIs provide a consolidated view of overall business performance.
+7. These KPIs provide a consolidated view of overall business performance.
 
-Product & Profitability Analysis
+8. Product & Profitability Analysis
+   
 
 A dedicated product analysis page was developed to evaluate:
 
