@@ -63,18 +63,22 @@ The dashboard analyzes customer purchasing behavior across different business di
 
 3. Product Preference by City
 
-4.Revenue Contribution by Customer Segment
+4. Revenue Contribution by Customer Segment
 
 This enables businesses to identify their most valuable customers and regional growth opportunities.
+
 
 Trend Analysis
 
 A dedicated trend analysis page was created to evaluate:
 
-Monthly Revenue Trends
-Quarterly Segment Performance
-City-wise Revenue Comparison
-Seasonal Sales Patterns
+1. Monthly Revenue Trends
+
+2. Quarterly Segment Performance
+   
+3. City-wise Revenue Comparison
+   
+4. Seasonal Sales Patterns
 
 This helps monitor business growth and identify performance fluctuations over time.
 
