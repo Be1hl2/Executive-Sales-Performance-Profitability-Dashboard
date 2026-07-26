@@ -30,7 +30,7 @@ The dashboard provides executive-level KPIs for business performance monitoring:
 
 5. Total Customers
 
-6. verage Revenue per Customer
+6. Average Revenue per Customer
 
 7. These KPIs provide a consolidated view of overall business performance.
 
@@ -90,25 +90,26 @@ Laptop category generates the highest revenue but also records the highest loss,
 Consumer segment contributes the highest share of revenue.
 Hyderabad is the top-performing city by revenue contribution.
 South region leads overall revenue performance.
-Revenue trends indicate seasonal fluctuations with recovery during Q4.
+Revenue trends indicate seasonal fluctuations with recovery during
+
+
 🎯 Business Impact & Recommendations
 
 The dashboard supports strategic decision-making by helping stakeholders:
 
-Monitor executive KPIs in real time
-Identify high-performing products and regions
-Detect profitability challenges
-Understand customer purchasing behavior
-Optimize product and pricing strategies
-Track revenue trends for future planning
+✔ Monitor executive KPIs in real time
+✔ Identify high-performing products and regions
+✔ Detect profitability challenges
+✔ Optimize product and pricing strategies
+✔ Track revenue trends for future planning
 
 Recommended focus areas include:
 
-Pricing optimization
-Margin improvement initiatives
-Product portfolio optimization
-Regional sales strategy
-Customer segment-focused marketing
+✔ Pricing optimization
+✔ Margin improvement initiatives
+✔ Product portfolio optimization
+✔ Regional sales strategy
+✔ Customer segment-focused marketing
 
 🛠 Tools & Technologies Used
 Power BI
