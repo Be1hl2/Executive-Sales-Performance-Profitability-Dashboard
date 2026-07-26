@@ -40,22 +40,30 @@ The dashboard provides executive-level KPIs for business performance monitoring:
 
 A dedicated product analysis page was developed to evaluate:
 
-1. Revenue by Product Category                                          2. Profit by Category
+1. Revenue by Product Category
+   
+2.  Profit by Category
 
-3. Brand Contribution                                                   4. Product Contribution by Customer Segment 
+3. Brand Contribution
+
+4. Product Contribution by Customer Segment 
 
 5. Regional Product Performance
 
 This analysis helps identify high-performing products, margin erosion, and profitability opportunities.
 
+
 Consumer & Segment Analysis
 
 The dashboard analyzes customer purchasing behavior across different business dimensions, including:
 
-Customer Segment Contribution
-City-wise Revenue Performance
-Product Preference by City
-Revenue Contribution by Customer Segment
+1. Customer Segment Contribution
+   
+2. City-wise Revenue Performance
+
+3. Product Preference by City
+
+4.Revenue Contribution by Customer Segment
 
 This enables businesses to identify their most valuable customers and regional growth opportunities.
 
