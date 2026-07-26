@@ -71,7 +71,7 @@ Laptop category generates the highest revenue but also records the highest loss,
 Consumer segment contributes the highest share of revenue.
 Hyderabad is the top-performing city by revenue contribution.
 South region leads overall revenue performance.
-Revenue trends indicate seasonal fluctuations with recovery during 
+Revenue trends indicate seasonal fluctuations with recovery during Q4.
 🎯 Business Impact & Recommendations
 
 The dashboard supports strategic decision-making by helping stakeholders:
